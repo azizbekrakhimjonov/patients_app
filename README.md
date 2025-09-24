@@ -13,6 +13,19 @@
 5. O'rnatish tugagach, ilovani oching va foydalanishni boshlang
 6. Xavfsizlik uchun, ilovani o'rnatgandan so'ng noma'lum manbalardan ilovalarni o'rnatishga ruxsat berishni o'chirib qo'ying
 
+
+## 📱 App Screenshots
+
+<div align="center">
+
+### Main Features
+<img src="screenshots/screen1.jpg" width="200" height="400">
+<img src="screenshots/screen2.jpg" width="200" height="400">
+<img src="screenshots/screen3.jpg" width="200" height="400">
+
+</div>
+
+
 # Bu buyruq eng kichik APK beradi
 `flutter build apk --release --split-per-abi --obfuscate --split-debug-info=build/debug-info`
 
