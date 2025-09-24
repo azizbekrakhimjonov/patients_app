@@ -2,7 +2,7 @@
 
 ## 📱 Download APK
 
-[![Download](📱)](https://github.com/azizbekrakhimjonov/patients_app/releases/download/v1.0.0/Patients.apk)
+[![Download]](https://github.com/azizbekrakhimjonov/patients_app/releases/download/v1.0.0/Patients.apk)
 
 ## 🔧 Installation
 
@@ -36,6 +36,3 @@ Emulyator yoki Intel protsessorli qurilmalar uchun: app-x86_64-release.apk
 Telefoningiz 64-bit bo'lsa: app-arm64-v8a-release.apk
 Eski telefonlar uchun: app-armeabi-v7a-release.apk
 Emulyator yoki Intel protsessorli qurilmalar uchun: app-x86_64-release.apk
-
-## 📱 Screenshots
-![Screenshot 1](screenshots/screen1.png)
