@@ -16,6 +16,7 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.blue,
         visualDensity: VisualDensity.adaptivePlatformDensity,
       ),
+      debugShowCheckedModeBanner: false,
       home: PatientActivityScreen(),
     );
   }
@@ -181,7 +182,7 @@ class _PatientActivityScreenState extends State<PatientActivityScreen> {
           setState(() {
             _isStopLoading = false;
             _isActivityActive = false; // Har doim to'xtatamiz
-            _statusMessage = "END ACTIVITY: ${response.statusCode}}";
+            _statusMessage = "END ACTIVITY: ${response.statusCode}";
           });
         } catch (jsonError) {
           setState(() {
@@ -220,7 +221,7 @@ class _PatientActivityScreenState extends State<PatientActivityScreen> {
     return Scaffold(
       appBar: AppBar(
         title: Text('Patient Activity'),
-        backgroundColor: Colors.blue,
+        backgroundColor: Colors.green,
         foregroundColor: Colors.white,
       ),
       body: Padding(
