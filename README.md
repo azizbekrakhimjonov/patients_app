@@ -7,6 +7,10 @@ Telefoningiz 64-bit bo'lsa: app-arm64-v8a-release.apk
 Eski telefonlar uchun: app-armeabi-v7a-release.apk
 Emulyator yoki Intel protsessorli qurilmalar uchun: app-x86_64-release.apk
 
+Telefoningiz 64-bit bo'lsa: app-arm64-v8a-release.apk
+Eski telefonlar uchun: app-armeabi-v7a-release.apk
+Emulyator yoki Intel protsessorli qurilmalar uchun: app-x86_64-release.apk
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
