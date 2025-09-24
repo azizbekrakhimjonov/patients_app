@@ -1,6 +1,7 @@
 # patients_app
 
-A new Flutter project.
+# Bu buyruq eng kichik APK beradi
+`flutter build apk --release --split-per-abi --obfuscate --split-debug-info=build/debug-info`
 
 ## Getting Started
 
