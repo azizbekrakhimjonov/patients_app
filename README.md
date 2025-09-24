@@ -2,7 +2,7 @@
 
 ## 📱 Download APK
 
-[![Download](https://img.shields.io/badge/Download-Patients_App-v1.0.0-blue?style=for-the-badge&logo=android)](https://github.com/azizbekrakhimjonov/patients_app/releases/download/v1.0.0/Patients.apk)
+[![Download](📱)](https://github.com/azizbekrakhimjonov/patients_app/releases/download/v1.0.0/Patients.apk)
 
 ## 🔧 Installation
 
