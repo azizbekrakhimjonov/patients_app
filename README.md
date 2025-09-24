@@ -1,7 +1,7 @@
 # patients_app
 
-[APP Here](patients_app\build\app\outputs\flutter-apk\Patients.apk)
-
+## Download APK
+[📥 Download Patients.apk](https://github.com/azizbekrakhimjonov/patients_app/build/app/outputs/flutter-apk/Patients.apk)
 
 # Bu buyruq eng kichik APK beradi
 `flutter build apk --release --split-per-abi --obfuscate --split-debug-info=build/debug-info`
