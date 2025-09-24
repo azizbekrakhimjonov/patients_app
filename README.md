@@ -1,8 +1,8 @@
-# patients_app
+# Patients App
 
 ## 📱 Download APK
 
-[[Download]](https://github.com/azizbekrakhimjonov/patients_app/releases/download/v1.0.0/Patients.apk)
+---[[Download]](https://github.com/azizbekrakhimjonov/patients_app/releases/download/v1.0.0/Patients.apk)---
 
 ## 🔧 Installation
 
